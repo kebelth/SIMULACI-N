@@ -1,0 +1,13 @@
+tienda\prueba4\dao\CategoriaDao.class
+tienda\prueba4\domain\Credito.class
+tienda\prueba4\dao\CreditoDao.class
+tienda\prueba4\controller\IndexController.class
+tienda\prueba4\service\CategoriaService.class
+tienda\prueba4\domain\Cliente.class
+tienda\prueba4\service\ArticuloService.class
+tienda\prueba4\controller\ArticuloController.class
+tienda\prueba4\dao\ArticuloDao.class
+tienda\prueba4\service\CategoriaServiceImlp.class
+tienda\prueba4\dao\ClienteDao.class
+tienda\prueba4\domain\Articulo.class
+tienda\prueba4\domain\Categoria.class
